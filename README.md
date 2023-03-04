@@ -1,5 +1,6 @@
 # "Offer Creator"
 Projeto direcionado à criação e publicação automática de imagens e vídeos em redes sociais(Twitter, Instagram, Youtube) de promoções anunciadas em grupos do telegram.
+
 Versão pública não testada, teve apenas o código organizado e publicado.
 
 ## Tecnologias utilizadas
