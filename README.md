@@ -16,3 +16,7 @@ Versão pública não testada, teve apenas o código organizado e publicado.
 ![Promoção 01](resultados/37256.jpg)
 
 ![Promoção 02](resultados/36344.jpg)
+
+
+## Vídeo de exemplo gerado para publicação de vídeo:
+[![Vídeo Exemplop](https://img.youtube.com/vi/kAFzJmWIspE/maxresdefault.jpg)](https://youtu.be/kAFzJmWIspE)
